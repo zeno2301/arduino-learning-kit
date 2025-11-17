@@ -65,7 +65,7 @@ void loop() {
 
 <div align="center">
 
-  <![blink-scheme](https://github.com/user-attachments/assets/0a21f651-4ba5-485a-bd0f-14adb75e4485)>
+  ![blink-scheme](https://github.com/user-attachments/assets/0a21f651-4ba5-485a-bd0f-14adb75e4485)
 
 
 ---
