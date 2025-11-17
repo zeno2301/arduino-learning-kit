@@ -70,8 +70,6 @@ void loop() {
 
   <img src="img/blink-setup.jpg" alt="Blink LED Setup" width="450" />
 
-  <p><em>Реальная сборка схемы Blink LED на макетной плате</em></p>
-</div>
 
 ---
 
