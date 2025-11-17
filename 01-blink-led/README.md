@@ -68,9 +68,6 @@ void loop() {
   <![blink-scheme](https://github.com/user-attachments/assets/0a21f651-4ba5-485a-bd0f-14adb75e4485)>
 
 
-  <img src="img/blink-setup.jpg" alt="Blink LED Setup" width="450" />
-
-
 ---
 
 ## 🔧 ASCII-схема подключения 
